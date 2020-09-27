@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\WorkersLab_1_2020.exe.config
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\WorkersLab_1_2020.exe
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\WorkersLab_1_2020.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\BL.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\WorkersModel.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\BL.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\bin\Debug\WorkersModel.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\obj\Debug\WorkersLab_1_2020.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\obj\Debug\WorkersLab_1_2020.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\obj\Debug\WorkersLab_1_2020.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\obj\Debug\WorkersLab_1_2020.exe
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersLab_1_2020\obj\Debug\WorkersLab_1_2020.pdb

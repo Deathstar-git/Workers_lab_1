@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\Workers_WinForms.exe.config
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\Workers_WinForms.exe
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\Workers_WinForms.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\BL.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\WorkersModel.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\BL.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\bin\Debug\WorkersModel.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.Form1.resources
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.exe
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\Workers_WinForms\obj\Debug\Workers_WinForms.pdb

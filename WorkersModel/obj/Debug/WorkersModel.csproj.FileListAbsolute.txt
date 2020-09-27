@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\bin\Debug\WorkersModel.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\bin\Debug\WorkersModel.pdb
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\obj\Debug\WorkersModel.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\obj\Debug\WorkersModel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\obj\Debug\WorkersModel.dll
+C:\Users\lenovo\source\repos\WorkersLab_1_2020\WorkersModel\obj\Debug\WorkersModel.pdb
